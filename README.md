@@ -3,7 +3,8 @@
 
 ### 🌱 Estou estudando: 
 - Engenharia de Software
-- Desenvolvimento Web
+- Java
+- HTML5 + CSS3 + JS
 
 ### 🔭 Estou trabalhando: 
 - Em Projetos Independentes
